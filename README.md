@@ -1,15 +1,14 @@
 # Hi 👋 I'm Karthick V
+ B.Sc Computer Science Graduate
 
-🎓 B.Sc Computer Science Graduate
+##  About Me
 
-## 🚀 About Me
+-  Aspiring Data Analytics
+-  Python
+-  Web Development
+-  Always Learning New Technologies
 
-- 📊 Aspiring Data Analytics
-- 🐍 Python
-- 🌐 Web Development
-- 📚 Always Learning New Technologies
-
-## 🛠️ Skills
+##  Skills
 
 - Python
 - HTML
